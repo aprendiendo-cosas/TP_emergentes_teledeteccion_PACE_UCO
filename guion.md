@@ -79,21 +79,21 @@ En este "laboratorio" tratamos de abordar los siguientes objetivos, agrupados en
 
 
 
-![solete](https://github.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/raw/main/imagenes/sol.png)
+![solete](https://raw.githubusercontent.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/main/imagenes/sol.png)
 
 
 
 
 + Pues bien, resulta que hay satélites que son capaces de "ver" la fotosíntesis. Una planta que hace la fotosíntesis refleja poca radiación roja porque la utiliza para romper moléculas de agua y producir glucosa. Una planta muerta refleja menos radiación de infrarrojos que una viva. Así que, si tenemos en un satélite sensores que pueden ver la radiación roja e infrarroja que refleja la superficie, podemos cuantificar cuánta fotosíntesis está ocurriendo en un lugar determinado. Para cuantificar esto construimos índices de vegetación. El más utilizado se denomina NDVI (Normalized Difference Vegetation Index).
 
-![NDVI](https://github.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/raw/main/imagenes/ndvi.png)
+![NDVI](https://raw.githubusercontent.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/main/imagenes/ndvi.png)
 
 
 + Todo este rollo sirve para que entendáis cómo las imágenes de satélite nos ayudan a visualizar una propiedad emergente de los ecosistemas: la producción primaria. Se define como la cantidad de biomasa que pueden generar los organismos autótrofos de un ecosistema en un momento dado. Cuando tomamos imágenes de satélite estamos viendo en realidad el resultado de la interacción de trillones de fotones con los cloroplastos de millones de plantas. 
 
 + Vamos a analizar con cierto detalle cómo cambia la producción primaria en distintos ecosistemas de la Tierra. Para ello usaremos imágenes de un satélite llamado Landsat. Este satélite (bueno, en realidad son varios) fue lanzado en 1984 y sigue en órbita en la actualidad. Pasa por cada punto de la Tierra cada 16 días. Y toma una foto. Así que tenemos muchísimas imágenes de satélite de todo el planeta. Es posible "resumir" toda la información de esta larguísima serie temporal. Para ello podemos obtener imágenes que agregan la producción primaria de cada año, por ejemplo. Si representamos la producción primara de varios años en una gráfica, observamos cuestiones interesantes que nos ayudan a entender cómo funciona un ecosistema determinado. Veremos varios ejemplos usando una herramienta muy potente llamada "[Landsat timeseries explorer](https://jstnbraaten.users.earthengine.app/view/landsat-timeseries-explorer)"
 
-  + Diferencia entre un bosque y un cultivo. Veremos desde arriba el patrón de producción primaria de dos zonas muy cercanas a esta clase. De hecho son dos zonas que visitaréis a continuación. La primera es un bosque y la segunda un cultivo. En la siguiente sesión conoceréis a alguno de los elementos que conforman el ecosistema. Desde nuestra visión holística, esos elementos son las piezas cuyas interacciones generan las propiedades emergentes que observamos desde el satélite.
+  1. Diferencia entre un bosque y un cultivo. Veremos desde arriba el patrón de producción primaria de dos zonas muy cercanas a esta clase. De hecho son dos zonas que visitaréis a continuación. La primera es un bosque y la segunda un cultivo. En la siguiente sesión conoceréis a alguno de los elementos que conforman el ecosistema. Desde nuestra visión holística, esos elementos son las piezas cuyas interacciones generan las propiedades emergentes que observamos desde el satélite.
 
 ![parcelas](https://github.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/raw/main/imagenes/rabanales.png)
 											*Ubicación de las dos parcelas. La del oeste es el bosque*
@@ -107,8 +107,64 @@ En este "laboratorio" tratamos de abordar los siguientes objetivos, agrupados en
 													*Patrón de producción primaria del pastizal-cultivo*
 
 
+  2. Evolución de la producción primaria en el bosque de Posadas. Busca "posadas, córdoba" en la web anterior. Identifica el bosque hay al norte del pueblo (Parque Periurbano La Sierrezuela) y haz click en cualquier punto del bosque. Verás cómo se genera una gráfica como las anteriores.
+     + ¿Cómo ha evolucionado la producción primaria en esta zona?
+     + ¿A qué crees que se debe este cambio?
+  3. Evolución de la producción primaria después de una perturbación. Busca "Sierra Bermeja, España" en la web anterior. Haz click en una zona sin bosque. Se generará una gráfica como las anteriores.
+     + ¿Qué crees que ha pasado en esta zona?
+     + ¿Recuerdas el nombre del proceso ecológico que ocurre después de una perturbación?
 
 
+
+
+
+En este enlace está disponible la presentación que usamos como guía de la presentación. 
+
+## Conexión a los ordenadores de la UCO
+
+Por motivos de seguridad es necesario usar una contraseña para acceder a los ordenadores. Usad las siguientes:
+
+
+
+```
+USUARIO     PASSWORD
+-------    ----------
+BONET001 - Sii$kob634
+BONET002 - Net+hom245
+BONET003 - Nob*tof524
+BONET004 - Pio?nim529
+BONET005 - Dae:tem748
+BONET006 - Pio_ban429
+BONET007 - Den>noo524
+BONET008 - Hab!lut863
+BONET009 - Tut_min346
+BONET010 - Dap+gue389
+BONET011 - Nah$nep634
+BONET012 - Tuh>mot438
+BONET013 - Jip?kat548
+BONET014 - Tek_nin546
+BONET015 - Dan.mar824
+BONET016 - Jec*sil932
+BONET017 - Leh:nur467
+BONET018 - Tom>nob243
+BONET019 - Vic$pal897
+BONET020 - Nar+lee759
+BONET021 - Nil$pec543
+BONET022 - Cag-beb267
+BONET023 - Boa?lai895
+BONET024 - Nio_pig327
+BONET025 - Mij$tup542
+BONET026 - Nep$sap978
+BONET027 - Sao>naj528
+BONET028 - Gup:lib265
+BONET029 - Ceb:dup986
+BONET030 - Peu&diu732
+BONET031 - Sib:lep943
+BONET032 - Sui%toa249
+BONET033 - Reo*lem689
+BONET034 - Nes_gah245
+BONET035 - Cee-bih635
+```
 
 
 
