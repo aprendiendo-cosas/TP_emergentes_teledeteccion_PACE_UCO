@@ -70,16 +70,24 @@ En este "laboratorio" tratamos de abordar los siguientes objetivos, agrupados en
 
 + Para entender esto tienes que evocar el conocimiento que ya tienes sobre el espectro electromagnético. La siguiente figura resume un poco las ideas principales.
 
-![espectro](https://raw.githubusercontent.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/main/imagenes/espectro.jpg)
+![espectro](https://github.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/raw/main/imagenes/espectro.png)
 
 
 
 
++ Los satélites tienen cámaras parecidas a las de nuestros móviles. Al menos conceptualmente. Se caracterizan porque son capaces de "excitarse" (en el sentido fotónico de la palabra) cuando llegan a ellas ondas electromagnéticas con una longitud de onda concreta. A nuestros ojos les pasa algo parecido. Vemos ciertas longitudes de ondas y somos ciegos ante otras. No vemos en el infrarrojo ni en el ultravioleta, por ejemplo. La siguiente imagen resume esta idea.
 
 
-+ Los satélites tienen cámaras parecidas a las de nuestros móviles. Al menos conceptualmente. Se caracterizan porque son capaces de "excitarse" (en el sentido fotónico de la palabra) cuando llegan a ellas ondas electromagnéticas con una longitud de onda concreta. A nuestros ojos les pasa algo parecido. Vemos ciertas longitudes de ondas y somos ciegos ante otras. No vemos en el infrarrojo ni en el ultravioleta, por ejemplo. 
 
-+ Pues bien, resulta que hay satélites que son capaces de "ver" la fotosíntesis. Una planta que hace la fotosíntesis refleja poca radiación roja porque la utiliza para romper moléculas de agua y producir glucosa. Una planta muerta refleja menos radiación de infrarrojos que una viva. Así que, si tenemos en un satélite sensores que pueden ver la radiación roja e infrarroja que refleja la superficie, podemos cuantificar cuánta fotosíntesis está ocurriendo en un lugar determinado. Para cuantificar esto construimos índices de vegetación. El más utilizado se denomina NDVI (Normalized Difference Vegetation Index)
+![solete](https://github.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/raw/main/imagenes/sol.png)
+
+
+
+
++ Pues bien, resulta que hay satélites que son capaces de "ver" la fotosíntesis. Una planta que hace la fotosíntesis refleja poca radiación roja porque la utiliza para romper moléculas de agua y producir glucosa. Una planta muerta refleja menos radiación de infrarrojos que una viva. Así que, si tenemos en un satélite sensores que pueden ver la radiación roja e infrarroja que refleja la superficie, podemos cuantificar cuánta fotosíntesis está ocurriendo en un lugar determinado. Para cuantificar esto construimos índices de vegetación. El más utilizado se denomina NDVI (Normalized Difference Vegetation Index).
+
+![NDVI](https://github.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/raw/main/imagenes/ndvi.png)
+
 
 + Todo este rollo sirve para que entendáis cómo las imágenes de satélite nos ayudan a visualizar una propiedad emergente de los ecosistemas: la producción primaria. Se define como la cantidad de biomasa que pueden generar los organismos autótrofos de un ecosistema en un momento dado. Cuando tomamos imágenes de satélite estamos viendo en realidad el resultado de la interacción de trillones de fotones con los cloroplastos de millones de plantas. 
 
