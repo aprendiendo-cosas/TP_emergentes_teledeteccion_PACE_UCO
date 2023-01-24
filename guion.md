@@ -118,7 +118,7 @@ En este "laboratorio" tratamos de abordar los siguientes objetivos, agrupados en
 
 
 
-En este enlace está disponible la presentación que usamos como guía de la presentación. 
+En [este](https://github.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/raw/main/presentacion/prop_emergentes.pptx) enlace está disponible la presentación que usamos como guía de la presentación. 
 
 ## Conexión a los ordenadores de la UCO
 
