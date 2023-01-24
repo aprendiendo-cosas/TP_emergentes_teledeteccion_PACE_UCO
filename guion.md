@@ -23,7 +23,7 @@ En este "laboratorio" tratamos de abordar los siguientes objetivos, agrupados en
 
 ## Hilo argumental: Desde Rajoy a cómo respira un bosque
 
-+ Corría el año 2012 y el por aquel entonces presidente del gobierno, M. Rajoy, asistía a una reunión de alto nivel con varios líderes europeos. En un momento de la reunión, los micrófonos captaron cómo nuestro presi decía: "it is very difficult todo esto". Rajoy reaccionó ante un problema complejo como hacemos habitualmente: quejándonos de que la vida es compleja. 
++ Corría el año 2012 y el por aquel entonces presidente del gobierno, M. Rajoy, asistía a una reunión de alto nivel con varios líderes europeos. En un momento de la reunión, los micrófonos captaron cómo nuestro presi decía: "*it is very difficult todo esto*". Rajoy reaccionó ante un problema complejo como hacemos habitualmente: quejándonos de que la vida es compleja. 
 
 
 
@@ -35,20 +35,20 @@ En este "laboratorio" tratamos de abordar los siguientes objetivos, agrupados en
 
 + Hay muchos sistemas complejos a nuestro alrededor. Un puente es un buen ejemplo de un sistema complejo. Para que dure mucho tiempo y cumpla su función es necesario saber muchas cosas. Debemos de conocer las leyes físicas que gobiernan la distribución de masas, las tensiones, la resistencia de los materiales, etc. No es fácil mantener y conservar un puente.
 
-![puente](https://github.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/raw/main/imagenes/puente_de_alcantara.jpg)
+![puente](https://raw.githubusercontent.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/main/imagenes/puente_de_alcantara.jpg)
 
 + Los ecosistemas son también sistemas complejos. Un bosque, por ejemplo, es una agrupación de seres vivos que hacen cosas de seres vivos: comen, se reproducen, compiten, cooperan, etc. ¿sabemos construir ecosistemas?, ¿y mantenerlos?
 
-![bosque](https://github.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/raw/main/imagenes/bosque.jpg)
+![bosque](https://raw.githubusercontent.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/main/imagenes/bosque.jpg)
 
 + La diferencia fundamental entre un puente y un ecosistema (desde el punto de vista de los sistemas complejos) es que las propiedades del puente resultan de la agrupación de las propiedades de los elementos que lo conforman. Es decir, un bloque de hormigón pequeño tiene propiedades parecidas a las de un puente. Esto no pasa con los bosques (ni con los ecosistemas en general). Las propiedades de los ecosistemas van más allá de las propiedades de los elementos que lo constituyen. Es decir, el bosque es más que la suma de sus partes. Estas características que surgen cuando muchos seres vivos se asocian en un ecosistema, son las denominadas "propiedades emergentes" de un sistema complejo. Data nos lo explica muy bien en [este](https://www.youtube.com/watch?v=LSXffX8weME) vídeo con otro ejemplo.
 
-<iframe width="560" height="415" src="https://www.youtube.com/embed/LSXffX8weME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="415" src="https://www.youtube.com/embed/LSXffX8weME?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 + Veamos ahora este vídeo.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jlO8NiPbgrk?start=48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="415" src="https://www.youtube.com/embed/jlO8NiPbgrk?start=48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
   + ¿Reconocéis lo que se describe en él?
   + En efecto, vemos una animación en 4D de la fotosíntesis. Estamos observando cómo trillones de fotones estimulan las moléculas de los fotosistemas y provocan la fotolisis del agua, la liberación de oxígeno y la producción de moléculas de azúcar. 
@@ -65,8 +65,17 @@ En este "laboratorio" tratamos de abordar los siguientes objetivos, agrupados en
 
   + ¿Cuántos satélites diríais que hay orbitando alrededor de la Tierra?
   + Muchos más.
-  + Estos, más o menos. 
+  + [Estos](https://www.youtube.com/watch?v=FDiIayhicFo), más o menos. 
   + No son todos útiles para ver la Tierra. La mayoría son satélites de comunicaciones. Pero vaya, que hay muchísimos.
+
++ Para entender esto tienes que evocar el conocimiento que ya tienes sobre el espectro electromagnético. La siguiente figura resume un poco las ideas principales.
+
+![espectro](https://raw.githubusercontent.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/main/imagenes/espectro.jpg)
+
+
+
+
+
 
 + Los satélites tienen cámaras parecidas a las de nuestros móviles. Al menos conceptualmente. Se caracterizan porque son capaces de "excitarse" (en el sentido fotónico de la palabra) cuando llegan a ellas ondas electromagnéticas con una longitud de onda concreta. A nuestros ojos les pasa algo parecido. Vemos ciertas longitudes de ondas y somos ciegos ante otras. No vemos en el infrarrojo ni en el ultravioleta, por ejemplo. 
 
