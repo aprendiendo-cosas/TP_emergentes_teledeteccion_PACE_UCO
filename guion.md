@@ -31,24 +31,33 @@ En este "laboratorio" tratamos de abordar los siguientes objetivos, agrupados en
 
 
 
-
-
-
-
 + El Sr. Rajoy tenía razón. Todo es muy difícil. Muy complejo, para ser más precisos. El mundo es complejo. Todo lo que vemos es el resultado de miles, millones de interacciones de átomos, moléculas y otras entidades que ocurren en cada lapso de tiempo y en cada "trozo" del espacio. Estamos rodeados de "sistemas complejos". 
 
 + Hay muchos sistemas complejos a nuestro alrededor. Un puente es un buen ejemplo de un sistema complejo. Para que dure mucho tiempo y cumpla su función es necesario saber muchas cosas. Debemos de conocer las leyes físicas que gobiernan la distribución de masas, las tensiones, la resistencia de los materiales, etc. No es fácil mantener y conservar un puente.
 
+![puente](https://github.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/raw/main/imagenes/puente_de_alcantara.jpg)
+
 + Los ecosistemas son también sistemas complejos. Un bosque, por ejemplo, es una agrupación de seres vivos que hacen cosas de seres vivos: comen, se reproducen, compiten, cooperan, etc. ¿sabemos construir ecosistemas?, ¿y mantenerlos?
+
+![bosque](https://github.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/raw/main/imagenes/bosque.jpg)
 
 + La diferencia fundamental entre un puente y un ecosistema (desde el punto de vista de los sistemas complejos) es que las propiedades del puente resultan de la agrupación de las propiedades de los elementos que lo conforman. Es decir, un bloque de hormigón pequeño tiene propiedades parecidas a las de un puente. Esto no pasa con los bosques (ni con los ecosistemas en general). Las propiedades de los ecosistemas van más allá de las propiedades de los elementos que lo constituyen. Es decir, el bosque es más que la suma de sus partes. Estas características que surgen cuando muchos seres vivos se asocian en un ecosistema, son las denominadas "propiedades emergentes" de un sistema complejo. Data nos lo explica muy bien en [este](https://www.youtube.com/watch?v=LSXffX8weME) vídeo con otro ejemplo.
 
+<iframe width="560" height="415" src="https://www.youtube.com/embed/LSXffX8weME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 + Veamos ahora este vídeo.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jlO8NiPbgrk?start=48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
   + ¿Reconocéis lo que se describe en él?
   + En efecto, vemos una animación en 4D de la fotosíntesis. Estamos observando cómo trillones de fotones estimulan las moléculas de los fotosistemas y provocan la fotolisis del agua, la liberación de oxígeno y la producción de moléculas de azúcar. 
 
-+ ¿Qué pasa si observamos millones de hojas haciendo la fotosíntesis? ¿y si además observamos cómo los animales se las comen y luego se comen entre ellos?. En definitiva, ¿qué propiedad o propiedades emergentes surgen cuando vemos la fotosíntesis de un ecosistema en su conjunto?
++ ¿Qué pasa si observamos millones de hojas haciendo la fotosíntesis? ¿y si además observamos cómo los animales se las comen y luego se comen entre ellos?. En definitiva, ¿qué propiedad o propiedades emergentes surgen cuando vemos la fotosíntesis de un ecosistema en su conjunto? En el vídeo mostrado a continuación se observa este proceso a escala planetaria.
+
+
+<iframe width="560" height="415" src="https://www.youtube.com/embed/8uDYfpw1gg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 + En este rato trataremos de responder (parcialmente) alguna de estas preguntas. Estudiaremos los ecosistemas desde arriba, viéndolos en su conjunto sin preocuparnos de cómo los fotones estimulan las moléculas de clorofila. Para ello usaremos una serie de técnicas englobadas en una disciplina llamada "teledetección". 
 
