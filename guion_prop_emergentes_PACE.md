@@ -1,10 +1,10 @@
-# Guión del laboratorio denominado "Propiedades emergentes de los ecosistemas o el todo es más que la suma de sus partes"
+# Guión del laboratorio denominado "Estudiando los ecosistemas desde el cielo mediante satélites"
 
 
-> + **_Versión_**: 2022-2023
+> + **_Versión_**: 2023-2024
 > + **_Titulación_**: PACE
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **_Duración_**:  1 hora y 15 minutos.
+> + **_Duración_**:  35 minutos.
 
 
 
@@ -21,36 +21,16 @@ En este "laboratorio" tratamos de abordar los siguientes objetivos, agrupados en
 
 
 
-## Hilo argumental: Desde Rajoy a cómo respira un bosque
+## Hilo argumental
 
-+ Corría el año 2012 y el por aquel entonces presidente del gobierno, M. Rajoy, asistía a una reunión de alto nivel con varios líderes europeos. En un momento de la reunión, los micrófonos captaron cómo nuestro presi decía: "*it is very difficult todo esto*". Rajoy reaccionó ante un problema complejo como hacemos habitualmente: quejándonos de que la vida es compleja. 
-
-
-
-![Rajoy](https://github.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/raw/2022_2023/imagenes/rajoy.jpg)
-
-
-
-+ El Sr. Rajoy tenía razón. Todo es muy difícil. Muy complejo, para ser más precisos. El mundo es complejo. Todo lo que vemos es el resultado de miles, millones de interacciones de átomos, moléculas y otras entidades que ocurren en cada lapso de tiempo y en cada "trozo" del espacio. Estamos rodeados de "sistemas complejos". 
-
-+ Hay muchos sistemas complejos a nuestro alrededor. Un puente es un buen ejemplo de un sistema complejo. Para que dure mucho tiempo y cumpla su función es necesario saber muchas cosas. Debemos de conocer las leyes físicas que gobiernan la distribución de masas, las tensiones, la resistencia de los materiales, etc. No es fácil mantener y conservar un puente.
-
-![puente](https://raw.githubusercontent.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/2022_2023/imagenes/puente_de_alcantara.jpg)
-
-+ Los ecosistemas son también sistemas complejos. Un bosque, por ejemplo, es una agrupación de seres vivos que hacen cosas de seres vivos: comen, se reproducen, compiten, cooperan, etc. ¿sabemos construir ecosistemas?, ¿y mantenerlos?
-
-![bosque](https://raw.githubusercontent.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/2022_2023/imagenes/bosque.jpg)
-
-+ La diferencia fundamental entre un puente y un ecosistema (desde el punto de vista de los sistemas complejos) es que las propiedades del puente resultan de la agrupación de las propiedades de los elementos que lo conforman. Es decir, un bloque de hormigón pequeño tiene propiedades parecidas a las de un puente. Esto no pasa con los bosques (ni con los ecosistemas en general). Las propiedades de los ecosistemas van más allá de las propiedades de los elementos que lo constituyen. Es decir, el bosque es más que la suma de sus partes. Estas características que surgen cuando muchos seres vivos se asocian en un ecosistema, son las denominadas "propiedades emergentes" de un sistema complejo. Data nos lo explica muy bien en [este](https://www.youtube.com/watch?v=LSXffX8weME) vídeo con otro ejemplo.
-
-
-
-+ Veamos ahora este vídeo.
++ En la naturaleza hay "cosas" muy complejas que resulta difícil de describir. Una de ellas son los ecosistemas. Sabemos que están compuestos de elementos (especies, ambiente abiótico, relaciones, etc.) que "hacen cosas", pero nos cuesta verlos como un sistema integrado.
++ En estos sistemas suele ocurrir que su comportamiento va algo más allá que lo que resultaría de sumar el comportamiento de los organismos que lo componen. Estas nuevas propiedades se denominan "propiedades emergentes".
++ El cuerpo humano (y el del resto de animales) es también un sistema complejo. Piensa, por ejemplo, en el funcionamiento de cada una de las neuronas de tu cerebro. Cada una de estas células se limita a transmitir un impulso electroquímico a una neurona cercana. La actividad conjunta de los miles de millones de neuronas del cerebro genera una propiedad emergente llamada "conciencia"
++ Algo parecido pasa en un ecosistema. Si ponemos el foco, por ejemplo, en la fotosíntesis, veremos cómo la actividad sincronizada de los trillones de cloroplastos que hay en un bosque, genera un patrón de producción primaria específica. En el siguiente vídeo puedes ver el funcionamiento de los cloroplastos. 
 
 <iframe width="560" height="415" src="https://www.youtube.com/embed/jlO8NiPbgrk?start=48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-  + ¿Reconocéis lo que se describe en él?
-  + En efecto, vemos una animación en 4D de la fotosíntesis. Estamos observando cómo trillones de fotones estimulan las moléculas de los fotosistemas y provocan la fotolisis del agua, la liberación de oxígeno y la producción de moléculas de azúcar. 
+  + En el video vemos una animación en 4D de la fotosíntesis. Estamos observando cómo trillones de fotones estimulan las moléculas de los fotosistemas y provocan la fotolisis del agua, la liberación de oxígeno y la producción de moléculas de azúcar. 
 
 + ¿Qué pasa si observamos millones de hojas haciendo la fotosíntesis? ¿y si además observamos cómo los animales se las comen y luego se comen entre ellos?. En definitiva, ¿qué propiedad o propiedades emergentes surgen cuando vemos la fotosíntesis de un ecosistema en su conjunto? En el vídeo mostrado a continuación se observa este proceso a escala planetaria.
 
@@ -69,7 +49,7 @@ En este "laboratorio" tratamos de abordar los siguientes objetivos, agrupados en
 
 + Para entender esto tienes que evocar el conocimiento que ya tienes sobre el espectro electromagnético. La siguiente figura resume un poco las ideas principales.
 
-![espectro](https://github.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/raw/2022_2023/imagenes/espectro.png)
+![espectro](https://github.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/raw/2023_2024/imagenes/espectro.png)
 
 
 
@@ -78,14 +58,14 @@ En este "laboratorio" tratamos de abordar los siguientes objetivos, agrupados en
 
 
 
-![solete](https://raw.githubusercontent.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/2022_2023/imagenes/sol.png)
+![solete](https://raw.githubusercontent.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/2023_2024/imagenes/sol.png)
 
 
 
 
 + Pues bien, resulta que hay satélites que son capaces de "ver" la fotosíntesis. Una planta que hace la fotosíntesis refleja poca radiación roja porque la utiliza para romper moléculas de agua y producir glucosa. Una planta muerta refleja menos radiación de infrarrojos que una viva. Así que, si tenemos en un satélite sensores que pueden ver la radiación roja e infrarroja que refleja la superficie, podemos cuantificar cuánta fotosíntesis está ocurriendo en un lugar determinado. Para cuantificar esto construimos índices de vegetación. El más utilizado se denomina NDVI (Normalized Difference Vegetation Index).
 
-![NDVI](https://raw.githubusercontent.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/2022_2023/imagenes/ndvi.png)
+![NDVI](https://raw.githubusercontent.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/2023_2024/imagenes/ndvi.png)
 
 
 + Todo este rollo sirve para que entendáis cómo las imágenes de satélite nos ayudan a visualizar una propiedad emergente de los ecosistemas: la producción primaria. Se define como la cantidad de biomasa que pueden generar los organismos autótrofos de un ecosistema en un momento dado. Cuando tomamos imágenes de satélite estamos viendo en realidad el resultado de la interacción de trillones de fotones con los cloroplastos de millones de plantas. 
@@ -94,15 +74,15 @@ En este "laboratorio" tratamos de abordar los siguientes objetivos, agrupados en
 
   1. Diferencia entre un bosque y un cultivo. Veremos desde arriba el patrón de producción primaria de dos zonas muy cercanas a esta clase. De hecho son dos zonas que visitaréis a continuación. La primera es un bosque y la segunda un cultivo. En la siguiente sesión conoceréis a alguno de los elementos que conforman el ecosistema. Desde nuestra visión holística, esos elementos son las piezas cuyas interacciones generan las propiedades emergentes que observamos desde el satélite.
 
-![parcelas](https://github.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/raw/2022_2023/imagenes/rabanales.png)
+![parcelas](https://github.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/raw/2023_2024/imagenes/rabanales.png)
 											*Ubicación de las dos parcelas. La del oeste es el bosque*
 
-![bosque](https://github.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/raw/2022_2023/imagenes/bosque_rabanales.png)
+![bosque](https://github.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/raw/2023_2024/imagenes/bosque_rabanales.png)
 														*Patrón de producción primaria del bosque*
 
 
 
-![pasto](https://github.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/raw/2022_2023/imagenes/pasto_cultivos_rabanales.png)
+![pasto](https://github.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/raw/2023_2024/imagenes/pasto_cultivos_rabanales.png)
 													*Patrón de producción primaria del pastizal-cultivo*
 
 
@@ -117,7 +97,7 @@ En este "laboratorio" tratamos de abordar los siguientes objetivos, agrupados en
 
 
 
-En [este](https://github.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/raw/2022_2023/presentacion/prop_emergentes.pptx) enlace está disponible la presentación que usamos como guía de la presentación. 
+En [este](https://github.com/aprendiendo-cosas/TP_emergentes_teledeteccion_PACE_UCO/raw/2023_2024/presentacion/prop_emergentes.pptx) enlace está disponible la presentación que usamos como guía de la presentación. 
 
 ## Conexión a los ordenadores de la UCO
 
@@ -126,43 +106,39 @@ Por motivos de seguridad es necesario usar una contraseña para acceder a los or
 
 
 ```
-USUARIO     PASSWORD
+USUARIO    CONTRASEÑA
 -------    ----------
-BONET001 - Sii$kob634
-BONET002 - Net+hom245
-BONET003 - Nob*tof524
-BONET004 - Pio?nim529
-BONET005 - Dae:tem748
-BONET006 - Pio_ban429
-BONET007 - Den>noo524
-BONET008 - Hab!lut863
-BONET009 - Tut_min346
-BONET010 - Dap+gue389
-BONET011 - Nah$nep634
-BONET012 - Tuh>mot438
-BONET013 - Jip?kat548
-BONET014 - Tek_nin546
-BONET015 - Dan.mar824
-BONET016 - Jec*sil932
-BONET017 - Leh:nur467
-BONET018 - Tom>nob243
-BONET019 - Vic$pal897
-BONET020 - Nar+lee759
-BONET021 - Nil$pec543
-BONET022 - Cag-beb267
-BONET023 - Boa?lai895
-BONET024 - Nio_pig327
-BONET025 - Mij$tup542
-BONET026 - Nep$sap978
-BONET027 - Sao>naj528
-BONET028 - Gup:lib265
-BONET029 - Ceb:dup986
-BONET030 - Peu&diu732
-BONET031 - Sib:lep943
-BONET032 - Sui%toa249
-BONET033 - Reo*lem689
-BONET034 - Nes_gah245
-BONET035 - Cee-bih635
+
+DPACE001 - Toi:nul536
+DPACE002 - Nog$sof593
+DPACE003 - Cof:dok954
+DPACE004 - Hab>lef749
+DPACE005 - Cek!dok963
+DPACE006 - Tia-meb293
+DPACE007 - Pik&com246
+DPACE008 - Bes:goa657
+DPACE009 - Hod%mut625
+DPACE010 - Foc&lia983
+DPACE011 - Nam>doe682
+DPACE012 - Vos-pei765
+DPACE013 - Gud!kal258
+DPACE014 - Doc%dua845
+DPACE015 - Kat:but298
+DPACE016 - Mio+fes546
+DPACE017 - Goh.rir637
+DPACE018 - Giv&rul968
+DPACE019 - Gei>jel532
+DPACE020 - Pus+dil562
+DPACE021 - Kue&cal695
+DPACE022 - Puh&fip957
+DPACE023 - Tod+nii298
+DPACE024 - Hae%sid423
+DPACE025 - Ruo.hap539
+DPACE026 - Jed!nem459
+DPACE027 - Sis_mub952
+DPACE028 - Fik*cud463
+DPACE029 - Nod*nii326
+DPACE030 - Lim.gol293
 ```
 
 
